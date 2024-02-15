@@ -95,12 +95,12 @@ const onFileChange = (event) => {
 const onDoubleClick = (event) => {
   const text = textInput.value;
   ctx.save();
-  if (text) {
+  if (text !== "") {
     ctx.lineWidth = 1;
-    ctx.font = "68px serif";
+    ctx.font = "68px sans-serif";
     ctx.fillText(text, event.offsetX, event.offsetY);
+    ctx.restore();
   }
-  ctx.restore();
 };
 
 const onSaveClick = () => {
