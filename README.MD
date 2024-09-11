@@ -34,7 +34,7 @@ Painting Board & Meme Maker
 
 ## 📱 View
 
-- [x] ToDoList
-- [x] Weather
-- [x] Clock
-- [x] Quotes
+- [x] Canvas
+- [x] Palette
+- [x] File Uploader
+- [x] Reset Button
