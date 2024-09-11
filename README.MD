@@ -30,7 +30,6 @@ Painting Board & Meme Maker
 - [x] File Upload
 - [x] Image Download
 - [x] Cursor Tracker
-- [x] Eraser
 
 ## 📱 View
 
