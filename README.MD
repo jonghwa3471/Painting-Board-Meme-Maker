@@ -4,6 +4,7 @@ Painting Board & Meme Maker
 ## 🔗 Demo
 
 ## 🖥 Preview
+<img src="preview-memeMaker.png" />
 
 ## 🔥 Stack
 
